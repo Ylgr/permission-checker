@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpermission_checker=self.webpackChunkpermission_checker||[]).push([[25],{5025:e=>{e.exports=JSON.parse('[{"inputs":[{"internalType":"bytes4","name":"interfaceId","type":"bytes4"}],"name":"supportsInterface","outputs":[{"internalType":"bool","name":"","type":"bool"}],"stateMutability":"view","type":"function"}]')}}]);
